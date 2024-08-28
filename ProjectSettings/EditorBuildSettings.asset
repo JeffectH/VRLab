@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3db1837cc97a95e4c98610966fac2b0b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5ed2d34a4dcc9654dbc40859af8daec5, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 3edd06bd4ad55f14db41653f6133f5fe, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 121362a7892a02849ae6b92726c0d085, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 1d19ca1c1ef17d44cb4eb130c3cbb14d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4369c5943921a3840ada2e4a7713f4f3, type: 2}

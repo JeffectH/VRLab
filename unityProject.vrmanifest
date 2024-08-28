@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.dvgups_lab.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Projekt_programm\\Unity\\DVGUPS_LAB\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DVGUPS_LAB [Testing]"
+        }
+      }
+    }
+  ]
+}
